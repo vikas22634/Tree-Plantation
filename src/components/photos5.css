@@ -1,0 +1,29 @@
+.photos5-photos5 {
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.photos5-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.photos5-text {
+  align-self: center;
+  margin-top: var(--dl-space-space-halfunit);
+  font-weight: 600;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+@media(max-width: 767px) {
+  .photos5-photos5 {
+    flex-direction: column;
+  }
+}
+@media(max-width: 479px) {
+  .photos5-image {
+    height: 10rem;
+  }
+}

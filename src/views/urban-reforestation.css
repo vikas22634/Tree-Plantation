@@ -1,0 +1,750 @@
+.urban-reforestation-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.urban-reforestation-container1 {
+  width: 104px;
+  display: flex;
+  align-self: flex-start;
+  margin-top: 4.2rem;
+  align-items: flex-start;
+  margin-left: 30px;
+  flex-direction: column;
+  margin-bottom: 5px;
+  justify-content: flex-start;
+}
+.urban-reforestation-btn-group {
+  width: 351px;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+.urban-reforestation-navlink5 {
+  cursor: pointer;
+  font-size: 15px;
+  align-self: center;
+  transition: 0.3s;
+  padding-top: 0px;
+  border-width: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  text-decoration: none;
+  background-color: transparent;
+}
+.urban-reforestation-navlink5:hover {
+  color: #141b8e;
+  border: none;
+  transform: scale(1.02);
+  background-color: transparent;
+}
+.urban-reforestation-button3 {
+  padding: 2px;
+  font-size: 15px;
+  align-self: center;
+  margin-left: 2px;
+  padding-top: 0px;
+  border-width: 0px;
+  margin-right: 2px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  background-color: transparent;
+}
+.urban-reforestation-navlink6 {
+  width: 99px;
+  cursor: pointer;
+  font-size: 15px;
+  align-self: center;
+  transition: 0.3s;
+  padding-top: 0px;
+  border-width: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  text-decoration: none;
+  background-color: transparent;
+}
+.urban-reforestation-navlink6:hover {
+  color: #141b8e;
+  border: none;
+  transform: scale(1.02);
+  background-color: transparent;
+}
+.urban-reforestation-button4 {
+  padding: 2px;
+  font-size: 15px;
+  align-self: center;
+  margin-left: 2px;
+  padding-top: 0px;
+  border-width: 0px;
+  margin-right: 2px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  background-color: transparent;
+}
+.urban-reforestation-button5 {
+  color: rgb(84, 84, 84);
+  width: 191px;
+  cursor: pointer;
+  font-size: 15px;
+  align-self: center;
+  padding-top: 0px;
+  border-width: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  background-color: transparent;
+}
+.urban-reforestation-hero {
+  width: 100%;
+  height: 392px;
+  display: flex;
+  min-height: 82vh;
+  align-items: center;
+  padding-left: var(--dl-space-space-threeunits);
+  padding-right: var(--dl-space-space-threeunits);
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: url('https://cdn.shopify.com/s/files/1/0326/7189/t/65/assets/blog-headers--galleries-4x6_page0001-1633612752068.jpg?v=1633612755');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.urban-reforestation-text {
+  color: #4ff7d5;
+  width: 1026px;
+  font-size: 4rem;
+  max-width: auto;
+  margin-top: 15px;
+  text-align: center;
+  user-select: none;
+  margin-bottom: 15px;
+  letter-spacing: 1px;
+}
+.urban-reforestation-banner {
+  width: 100%;
+  height: 1970px;
+  display: flex;
+  padding: var(--dl-space-space-threeunits);
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-twounits);
+  background-size: cover;
+  justify-content: flex-start;
+  background-image: url('https://images.unsplash.com/photo-1519120944692-1a8d8cfc107f?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDR8fHdoaXRlJTIwdHJlZXN8ZW58MHx8fHwxNjgyODk5MTU5&ixlib=rb-4.0.3&h=2000');
+}
+.urban-reforestation-container05 {
+  width: 1000px;
+  display: flex;
+  align-self: center;
+  margin-top: 0px;
+  align-items: flex-start;
+  margin-left: 0px;
+  margin-right: 0px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.urban-reforestation-text01 {
+  color: rgb(54, 53, 53);
+  align-self: center;
+  margin-bottom: 15px;
+}
+.urban-reforestation-text02 {
+  width: 1000px;
+  align-self: center;
+  text-align: justify;
+  line-height: 1.5;
+  margin-left: 0px;
+  user-select: none;
+  margin-right: 0px;
+  letter-spacing: 1px;
+}
+.urban-reforestation-text04 {
+  font-weight: 700;
+}
+.urban-reforestation-text06 {
+  line-height: 1.5;
+  letter-spacing: 1px;
+}
+.urban-reforestation-text07 {
+  font-size: 20px;
+  font-weight: 700;
+}
+.urban-reforestation-text09 {
+  font-size: 20px;
+  font-weight: 700;
+}
+.urban-reforestation-text12 {
+  font-size: 20px;
+  font-weight: 700;
+}
+.urban-reforestation-image1 {
+  width: 1000px;
+  height: 529px;
+  align-self: center;
+  object-fit: cover;
+}
+.urban-reforestation-container06 {
+  width: 1000px;
+  display: flex;
+  align-self: center;
+  margin-top: 15px;
+  align-items: flex-start;
+  margin-left: 0px;
+  margin-right: 0px;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #ffffff;
+}
+.urban-reforestation-text17 {
+  color: rgb(54, 53, 53);
+  align-self: center;
+  margin-bottom: 15px;
+}
+.urban-reforestation-text18 {
+  width: 1000px;
+  align-self: center;
+  text-align: justify;
+  line-height: 1.5;
+  margin-left: 0px;
+  user-select: none;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  letter-spacing: 1px;
+}
+.urban-reforestation-text25 {
+  font-size: 2em;
+}
+.urban-reforestation-text26 {
+  font-size: 2em;
+  font-weight: 700;
+}
+.urban-reforestation-text27 {
+  color: #363535;
+  font-size: 2em;
+  font-weight: 700;
+}
+.urban-reforestation-text28 {
+  line-height: 1.5;
+  letter-spacing: 1px;
+}
+.urban-reforestation-text31 {
+  line-height: 1.5;
+  letter-spacing: 1px;
+}
+.urban-reforestation-text34 {
+  line-height: 1.5;
+  letter-spacing: 1px;
+}
+.urban-reforestation-text37 {
+  line-height: 1.5;
+  letter-spacing: 1px;
+}
+.urban-reforestation-text40 {
+  line-height: 1.5;
+  letter-spacing: 1px;
+}
+.urban-reforestation-text43 {
+  line-height: 1.5;
+  letter-spacing: 1px;
+}
+.urban-reforestation-banner1 {
+  width: 100%;
+  height: 219px;
+  display: flex;
+  align-items: center;
+  padding-top: var(--dl-space-space-twounits);
+  padding-left: var(--dl-space-space-threeunits);
+  margin-bottom: 10px;
+  padding-right: var(--dl-space-space-threeunits);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-twounits);
+  background-size: auto;
+  justify-content: space-between;
+  background-image: url('https://images.unsplash.com/photo-1485628390555-1a7bd503f9fe?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDE3fHxhcmNoaXRlY3R1cmUlMjBtaW5pbWFsfGVufDB8fHx8MTYyNjE4NDA0Mg&ixlib=rb-1.2.1&w=1500');
+  background-repeat: repeat;
+  background-position: center;
+}
+.urban-reforestation-text46 {
+  color: rgb(5, 6, 43);
+  font-size: 2.4rem;
+  text-align: center;
+  user-select: none;
+  margin-bottom: var(--dl-space-space-unit);
+}
+.urban-reforestation-text47 {
+  width: 750px;
+  max-width: auto;
+  text-align: center;
+  margin-left: 3px;
+  user-select: none;
+  margin-bottom: var(--dl-space-space-twounits);
+}
+.urban-reforestation-container07 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: center;
+}
+.urban-reforestation-textinput {
+  width: 162px;
+  height: 31px;
+  font-size: 0.75rem;
+  border-color: var(--dl-color-gray-500);
+  margin-right: 10px;
+}
+.urban-reforestation-textinput1 {
+  font-size: 0.75rem;
+  border-color: var(--dl-color-gray-500);
+}
+.urban-reforestation-button6 {
+  color: var(--dl-color-gray-white);
+  cursor: pointer;
+  font-size: 0.75rem;
+  transition: 0.3s;
+  margin-left: var(--dl-space-space-unit);
+  user-select: none;
+  border-color: #691515;
+  background-color: #691515;
+}
+.urban-reforestation-button6:hover {
+  color: var(--dl-color-gray-black);
+  border-color: #000000;
+  background-color: transparent;
+}
+.urban-reforestation-footer {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  padding-top: 13px;
+  padding-left: var(--dl-space-space-twounits);
+  padding-right: var(--dl-space-space-twounits);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-twounits);
+  justify-content: space-between;
+  background-color: #D9D9D9;
+}
+.urban-reforestation-container08 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.urban-reforestation-logo {
+  display: flex;
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: flex-start;
+  user-select: none;
+  flex-direction: column;
+}
+.urban-reforestation-navlink7 {
+  display: contents;
+}
+.urban-reforestation-image2 {
+  width: 190px;
+  cursor: pointer;
+  height: auto;
+  transition: 0.3s;
+  text-decoration: none;
+}
+.urban-reforestation-image2:active {
+  width: 200px;
+}
+.urban-reforestation-text48 {
+  width: 350px;
+  margin-top: var(--dl-space-space-halfunit);
+  text-align: left;
+  line-height: 1.3;
+  margin-left: -10px;
+  margin-right: 70px;
+  text-transform: lowercase;
+}
+.urban-reforestation-text49 {
+  text-transform: uppercase;
+}
+.urban-reforestation-links-container {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.urban-reforestation-container09 {
+  display: flex;
+  align-items: flex-start;
+  margin-right: 10rem;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.urban-reforestation-product-container {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: flex-start;
+  margin-left: 0px;
+  user-select: none;
+  margin-right: 6.4rem;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.urban-reforestation-text51 {
+  margin-top: 12px;
+  font-weight: 700;
+  margin-left: -35px;
+  margin-bottom: 19px;
+}
+.urban-reforestation-text52 {
+  width: 250px;
+  text-align: justify;
+  line-height: 1.3;
+  margin-left: -40px;
+  margin-bottom: var(--dl-space-space-unit);
+}
+.urban-reforestation-company-container {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: flex-start;
+  margin-left: -30px;
+  user-select: none;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.urban-reforestation-text53 {
+  font-weight: 700;
+  margin-bottom: var(--dl-space-space-oneandhalfunits);
+}
+.urban-reforestation-navlink8 {
+  cursor: pointer;
+  transition: 0.3s;
+  margin-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+}
+.urban-reforestation-navlink8:hover {
+  color: #0e710c;
+}
+.urban-reforestation-text54 {
+  cursor: pointer;
+  transition: 0.3s;
+  margin-bottom: var(--dl-space-space-unit);
+}
+.urban-reforestation-text54:hover {
+  color: #0e710c;
+}
+.urban-reforestation-text55 {
+  cursor: pointer;
+  transition: 0.3s;
+  margin-bottom: var(--dl-space-space-unit);
+}
+.urban-reforestation-text55:hover {
+  color: #0e710c;
+}
+.urban-reforestation-link {
+  cursor: pointer;
+  transition: 0.3s;
+  text-decoration: none;
+}
+.urban-reforestation-link:hover {
+  color: #0e710c;
+}
+.urban-reforestation-container10 {
+  display: flex;
+  align-items: flex-start;
+  margin-left: -50px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.urban-reforestation-contact {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: var(--dl-space-space-oneandhalfunits);
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.urban-reforestation-text56 {
+  font-weight: 700;
+  margin-bottom: var(--dl-space-space-oneandhalfunits);
+}
+.urban-reforestation-text57 {
+  cursor: pointer;
+  transition: 0.3s;
+  margin-bottom: var(--dl-space-space-unit);
+}
+.urban-reforestation-text57:hover {
+  color: #0e710c;
+  font-style: normal;
+  font-weight: 400;
+}
+.urban-reforestation-link1 {
+  cursor: pointer;
+  transition: 0.3s;
+  user-select: all;
+  letter-spacing: 1.3px;
+  text-decoration: none;
+}
+.urban-reforestation-link1:hover {
+  color: #0e710c;
+}
+.urban-reforestation-socials {
+  display: flex;
+  align-items: flex-start;
+  user-select: none;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.urban-reforestation-text58 {
+  font-weight: 700;
+  margin-bottom: var(--dl-space-space-oneandhalfunits);
+}
+.urban-reforestation-icon-group {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.urban-reforestation-icon {
+  width: 14px;
+  cursor: pointer;
+  height: 14px;
+  margin-left: var(--dl-space-space-unit);
+  margin-right: var(--dl-space-space-unit);
+}
+.urban-reforestation-icon02 {
+  width: var(--dl-size-size-xsmall);
+  cursor: pointer;
+  height: var(--dl-size-size-xsmall);
+  margin-right: var(--dl-space-space-unit);
+}
+.urban-reforestation-icon04 {
+  width: var(--dl-size-size-xsmall);
+  cursor: pointer;
+  height: var(--dl-size-size-xsmall);
+  margin-right: var(--dl-space-space-unit);
+}
+.urban-reforestation-icon06 {
+  width: 17px;
+  cursor: pointer;
+  height: 24px;
+  margin-right: var(--dl-space-space-unit);
+}
+.urban-reforestation-icon08 {
+  width: 20px;
+  cursor: pointer;
+  height: 20px;
+  margin-right: var(--dl-space-space-unit);
+  margin-bottom: 2px;
+}
+.urban-reforestation-separator {
+  width: 100%;
+  height: 1px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  background-color: #414141;
+}
+.urban-reforestation-text59 {
+  align-self: center;
+  user-select: none;
+}
+.urban-reforestation-text61 {
+  color: #0e710c;
+}
+@media(max-width: 1281px) {
+  .urban-reforestation-image {
+    top: 9px;
+    left: 19px;
+  }
+}
+@media(max-width: 991px) {
+  .urban-reforestation-navlink4 {
+    top: -22px;
+    right: -790px;
+  }
+  .urban-reforestation-button1 {
+    top: -22px;
+    right: -913px;
+  }
+  .urban-reforestation-button2 {
+    top: -22px;
+    right: -913px;
+  }
+  .urban-reforestation-container04 {
+    align-items: center;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-twounits);
+    padding-right: 0px;
+  }
+  .urban-reforestation-banner {
+    flex-direction: column;
+  }
+  .urban-reforestation-container05 {
+    align-items: center;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-threeunits);
+  }
+  .urban-reforestation-text02 {
+    text-align: center;
+    margin-left: var(--dl-space-space-threeunits);
+  }
+  .urban-reforestation-container06 {
+    align-items: center;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-threeunits);
+  }
+  .urban-reforestation-text18 {
+    text-align: center;
+    margin-left: var(--dl-space-space-threeunits);
+  }
+  .urban-reforestation-text47 {
+    width: 100%;
+  }
+  .urban-reforestation-footer {
+    flex-direction: column;
+  }
+  .urban-reforestation-container09 {
+    margin-right: var(--dl-space-space-fourunits);
+  }
+  .urban-reforestation-product-container {
+    margin-right: var(--dl-space-space-fourunits);
+  }
+}
+@media(max-width: 767px) {
+  .urban-reforestation-header {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .urban-reforestation-hero {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .urban-reforestation-banner {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .urban-reforestation-text02 {
+    margin-left: var(--dl-space-space-unit);
+    margin-right: var(--dl-space-space-unit);
+  }
+  .urban-reforestation-text18 {
+    margin-left: var(--dl-space-space-unit);
+    margin-right: var(--dl-space-space-unit);
+  }
+  .urban-reforestation-banner1 {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .urban-reforestation-text47 {
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+  }
+  .urban-reforestation-footer {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .urban-reforestation-container08 {
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .urban-reforestation-logo {
+    align-items: center;
+  }
+  .urban-reforestation-image2 {
+    margin-bottom: var(--dl-space-space-oneandhalfunits);
+  }
+  .urban-reforestation-text48 {
+    margin-top: var(--dl-space-space-twounits);
+    text-align: center;
+    margin-bottom: var(--dl-space-space-twounits);
+  }
+  .urban-reforestation-links-container {
+    width: 100%;
+    align-items: flex-start;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .urban-reforestation-container09 {
+    margin-right: var(--dl-space-space-fourunits);
+  }
+  .urban-reforestation-product-container {
+    margin-right: var(--dl-space-space-fourunits);
+  }
+}
+@media(max-width: 479px) {
+  .urban-reforestation-header {
+    padding: var(--dl-space-space-unit);
+  }
+  .urban-reforestation-container04 {
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .urban-reforestation-btn-group {
+    flex-direction: column;
+  }
+  .urban-reforestation-hero {
+    padding-top: var(--dl-space-space-twounits);
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    padding-bottom: var(--dl-space-space-twounits);
+  }
+  .urban-reforestation-banner {
+    padding-top: var(--dl-space-space-twounits);
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    padding-bottom: var(--dl-space-space-twounits);
+  }
+  .urban-reforestation-banner1 {
+    padding-top: var(--dl-space-space-threeunits);
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    padding-bottom: var(--dl-space-space-threeunits);
+  }
+  .urban-reforestation-container07 {
+    align-items: center;
+    flex-direction: column;
+  }
+  .urban-reforestation-button6 {
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .urban-reforestation-footer {
+    padding: var(--dl-space-space-unit);
+  }
+  .urban-reforestation-container08 {
+    align-items: center;
+    flex-direction: column;
+  }
+  .urban-reforestation-image2 {
+    margin-bottom: 0px;
+  }
+  .urban-reforestation-text48 {
+    margin-top: var(--dl-space-space-twounits);
+    margin-bottom: var(--dl-space-space-twounits);
+  }
+  .urban-reforestation-links-container {
+    align-items: center;
+    flex-direction: column;
+  }
+  .urban-reforestation-container09 {
+    margin-right: 0px;
+  }
+  .urban-reforestation-container10 {
+    margin-top: var(--dl-space-space-oneandhalfunits);
+    align-items: flex-start;
+    margin-bottom: 0px;
+  }
+  .urban-reforestation-contact {
+    align-items: flex-start;
+    margin-bottom: var(--dl-space-space-unit);
+  }
+  .urban-reforestation-text59 {
+    text-align: center;
+  }
+}

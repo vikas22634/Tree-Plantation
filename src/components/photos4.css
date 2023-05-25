@@ -1,0 +1,35 @@
+.photos4-photos4 {
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.photos4-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.photos4-text {
+  align-self: center;
+  margin-top: var(--dl-space-space-halfunit);
+  font-weight: 600;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.photos4-root-class-name {
+  height: auto;
+}
+.photos4-root-class-name1 {
+  height: auto;
+}
+@media(max-width: 767px) {
+  .photos4-photos4 {
+    flex-direction: column;
+  }
+}
+@media(max-width: 479px) {
+  .photos4-image {
+    height: 10rem;
+  }
+}

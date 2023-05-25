@@ -1,0 +1,29 @@
+.photos2-gallery-card {
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.photos2-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.photos2-text {
+  align-self: center;
+  margin-top: var(--dl-space-space-halfunit);
+  font-weight: 600;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+@media(max-width: 767px) {
+  .photos2-gallery-card {
+    flex-direction: column;
+  }
+}
+@media(max-width: 479px) {
+  .photos2-image {
+    height: 10rem;
+  }
+}

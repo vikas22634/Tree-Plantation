@@ -1,0 +1,44 @@
+.component2-container {
+  height: 100%;
+  position: relative;
+  transition: 0.3s;
+}
+.component2-container:hover {
+  box-shadow: 5px 5px 10px 0px #3e3838;
+}
+.component2-container1 {
+  flex: 0 0 auto;
+  width: 285px;
+  height: 100%;
+  display: flex;
+  transition: 0.3s;
+  align-items: flex-start;
+  border-radius: var(--dl-radius-radius-radius4);
+  flex-direction: column;
+  background-size: cover;
+  background-image: url("https://images.unsplash.com/photo-1623394378418-5c78a541d13c?ixid=Mnw5MTMyMXwwfDF8c2VhcmNofDN8fGZhcmlkYWJhZHxlbnwwfHx8fDE2ODI1NzMxNjU&ixlib=rb-4.0.3&h=400");
+}
+.component2-container1:hover {
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+}
+.component2-heading {
+  color: rgb(243, 243, 243);
+  width: 100%;
+  height: 306px;
+  opacity: 1;
+  font-size: 2.5rem;
+  align-self: center;
+  margin-top: 0px;
+  text-align: center;
+  transition: 0.3s;
+  padding-top: 0px;
+  border-radius: var(--dl-radius-radius-radius4);
+  background-color: rgba(0, 0, 0, 0.55);
+}
+.component2-heading:hover {
+  opacity: 1;
+}
+.component2-root-class-name {
+  height: 80%;
+  margin-top: 25px;
+}
